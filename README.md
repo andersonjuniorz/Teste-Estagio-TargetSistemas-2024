@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 /*
  * Nome: Anderson Junior
- * Questao 2: Dado a sequencia de Fibonacci, onde se inicia por 0 e 1 e o proximo valor sempre sera 
+ * Questao 1: Dado a sequencia de Fibonacci, onde se inicia por 0 e 1 e o proximo valor sempre sera 
  * a soma dos 2 valores anteriores (exemplo: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34...), 
  * escreva um programa na linguagem que desejar onde, informado um numero, ele calcule a sequencia de Fibonacci e 
  * retorne uma mensagem avisando se o numero informado pertence ou nao a sequencia.
